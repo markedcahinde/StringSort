@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1361968069 source:c:\documents and settings\ate shanti\my documents\github\stringsort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cctype>
+	<cstdlib>
+	<cstring>
+
